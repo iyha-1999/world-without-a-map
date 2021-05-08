@@ -66,12 +66,12 @@
 ### reactをtypescriptテンプレートでインストール
 
 ```
-yarn add global create-react-app --template typescript
+yarn add global create-react-app
 ```
 
 
 ```
-npx create-react-app .
+npx create-react-app . --template typescript
 ```
 
 ### three.js ,react-three-fiber のインストール
